@@ -1,6 +1,6 @@
 # Linkedin sales navigator scraper
 
-Interested in using this scraper? Get it here: [Linkedin sales navigator scraper](https://apify.com/curious_coder/linkedin-sales-navigator-search-scraper)
+Interested in using this scraper? Get it here: [Linkedin sales navigator scraper](https://apify.com/curious_coder/linkedin-sales-navigator-search-scraper?fpr=ve081&fp_sid=github_linkedin-sales-navigator-search-scraper)
 
 Scrape linkedin profiles from sales navigator search results with email, company website and other important information
 
